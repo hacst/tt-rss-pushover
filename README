@@ -1,0 +1,10 @@
+tt-rss plugin to push articles using pushover
+    
+Offers a filter action that can be used through tt-rss filters
+to forward selected messages to pushover connected clients.
+
+Currently there is no UI to provide a token or user so they
+have to be hardcoded in init.php .
+
+
+
